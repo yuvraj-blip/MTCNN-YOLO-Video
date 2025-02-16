@@ -1,0 +1,5 @@
+python 3.11.10
+pandas 2.2.3
+TensorFlow 2.18.0
+MTCNN 1.0.0
+Ultralyntics 8.3.34
